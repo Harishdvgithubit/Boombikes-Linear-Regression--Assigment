@@ -31,6 +31,7 @@
 
 
 ## Technologies Used
+
 -Pandas 
 -matplotlib
 -seaborn
